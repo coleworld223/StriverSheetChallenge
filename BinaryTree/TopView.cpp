@@ -4,7 +4,7 @@ struct Node
     Node* left;
     Node* right;
 };
-*/
+
 class Solution
 {
     public:
